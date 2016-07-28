@@ -1,0 +1,46 @@
+.Allage{
+	border:green solid 1px;
+}
+
+#banner{
+	background-image: url("../img/banner.jpg");
+	background-size: 100% 100%;
+}
+
+.icono{
+	width: 100px;
+	height: 100px;
+	margin:110px 0px 0px 170px;
+}
+.amarillo{
+	background-color: #E0C518;
+	width: 1166px;
+	height: 220px;
+}
+.imagenes{
+	width: 150px;
+	height: 180px;
+	margin: 20px 20px;
+	/*padding: 50px 50px;*/
+
+}
+.pelis1{
+	margin-left: 50px;
+	margin-right: 110px;
+}
+.img2{
+	width: 200px;
+	height: 200px;
+	margin: 50px 15px;
+
+}
+.pelis2{
+	margin-left: 50px;
+	margin-right: 110px;
+}
+footer{
+	background: #F3F3F3;
+}
+p,h5,h3,h4,h1{
+	color:#D3D3D3;
+}
